@@ -1,3 +1,3 @@
 # Tenzie Game
 
-![Screenshot] ("/src/TenziePic.png")
+![Screenshot] (.src/TenziePic.png)
